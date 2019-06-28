@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'TT Commons Regular';
+    src: url('../../fonts/tt_commons_regular.woff2') format('woff2'),
+         url('../../fonts/tt_commons_regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Commons DemiBold';
+    src:  url('../../fonts/tt_commons_demibold.woff2') format('woff2'),
+          url('../../fonts/tt_commons_demibold.woff') format('woff');
+}
+
+// back up font
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');

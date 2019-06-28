@@ -1,0 +1,41 @@
+
+// Set your brand colors
+$purple: #8A4D76;
+$pink: #FA7C91;
+$brown: #757763;
+$beige-light: #D0D1CD;
+$beige-lighter: #EFF0EB;
+
+/*Colours*/
+$colour-AF-red: #ff004c; //  New Influential Red
+
+$colourConfidentBlack: #2b272b;
+$colourDynamicWhite: #f3f3f3;
+$colourHopefulBlue: #34ccd7;
+$colourPositiveYellow: #feea34;
+
+/*Colours for the approach detail page*/
+$lightgrey: #e3e3e3;
+$darkgrey: #474747;
+
+/*Fonts families*/
+$font-Commons: "TT Commons Regular", Arial, sans-serif;
+$font-Commons-Bold: "TT Commons DemiBold", Arial, sans-serif;
+$font-backup: 'Roboto', Arial, sans-serif;
+
+// Update Bulma's global variables
+$grey-dark: $brown;
+$grey-light: $beige-light;
+$primary: $purple;
+$link: $pink;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Update some of Bulma's component variables
+$body-background-color: white;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+ 
+
+$space: 1em;

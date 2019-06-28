@@ -1,0 +1,36 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $font-Commons-Bold;
+    font-weight: normal;
+    margin: 0;
+    padding: $space 0;
+}
+
+h1 {
+    font-size: 52px;
+    line-height: 46px;
+}
+
+p {
+    strong {
+        font-family: $font-Commons-Bold;
+        font-weight: normal;
+    }
+}
+
+p + p {
+    margin-top: $space;
+}
+
+.font__backup {
+    font-family: $font-backup;
+    font-weight: normal;
+
+    strong {
+        font-weight: 700;
+    }
+}
