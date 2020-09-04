@@ -4,7 +4,7 @@
   "dependencies": {
     "@frctl/fractal": "^1.1.7",
     "bulma": "^0.7.4",
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   },
   "scripts": {
     "css-build": "node-sass --omit-source-map-url public/sass/styleguide.scss  public/css/styleguide.css",
